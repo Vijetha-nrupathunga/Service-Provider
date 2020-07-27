@@ -1,2 +1,3 @@
-# Flask-CRUD-App
-A simple CRUD App created using Python 3 Flask microframework and MySQL
+Service Provider
+
+Web programming to implement service provider using Flask Framework of Python and CRUD applications.
